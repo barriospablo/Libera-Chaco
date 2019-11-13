@@ -11,7 +11,7 @@
 
 body {
   background: #fff;
-  color: #444;
+  color: ##07CC00;
   font-family: "Open Sans", sans-serif;
 }
 
@@ -50,7 +50,7 @@ h6 {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #1bb1dc;
+  background: #048000;
   color: #fff;
   width: 44px;
   height: 44px;
@@ -370,7 +370,7 @@ h6 {
   left: -260px;
   width: 260px;
   padding-top: 18px;
-  background: rgba(40, 38, 70, 0.8);
+  background: rgba(54, 111, 54, 0.8);
   transition: 0.4s;
 }
 
@@ -437,7 +437,7 @@ h6 {
 
 .mobile-nav-toggle i {
   margin: 18px 18px 0 0;
-  color: #065e77;
+  color: #048000;
 }
 
 .mobile-nav-overly {
@@ -447,7 +447,7 @@ h6 {
   top: 0;
   left: 0;
   position: fixed;
-  background: rgba(40, 38, 70, 0.8);
+  background: rgba(69, 165, 64, 0.7);
   overflow: hidden;
   display: none;
 }
@@ -473,7 +473,7 @@ h6 {
 
 .section-header h3 {
   font-size: 36px;
-  color: #413e66;
+  color: #048000;
   text-align: center;
   font-weight: 700;
   position: relative;
@@ -622,11 +622,11 @@ h6 {
 }
 
 #services .title a {
-  color: #111;
+  color: #07CC00;
 }
 
 #services .box:hover .title a {
-  color: #1bb1dc;
+  color: #07CC00;
 }
 
 #services .description {
@@ -1252,7 +1252,7 @@ h6 {
 #footer .footer-top .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #1bb1dc;
+  background: #048000;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -1265,7 +1265,7 @@ h6 {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #0a98c0;
+  background: #34D82B;
   color: #fff;
 }
 
@@ -1324,7 +1324,7 @@ h6 {
 }
 
 #footer .footer-top .footer-newsletter input[type="submit"] {
-  background: #1bb1dc;
+  background: #048000;
   border: 1px solid #1bb1dc;
   width: 35%;
   padding: 6px 0;
@@ -1335,7 +1335,7 @@ h6 {
 }
 
 #footer .footer-top .footer-newsletter input[type="submit"]:hover {
-  background: #0a98c0;
+  background: #34D82B;
 }
 
 #footer .footer-top .form .form-group {
@@ -1410,7 +1410,7 @@ h6 {
 }
 
 #footer .footer-top .form button[type="submit"] {
-  background: #1bb1dc;
+  background: #048000;
   border: 0;
   border-radius: 3px;
   padding: 8px 30px;
@@ -1419,7 +1419,7 @@ h6 {
 }
 
 #footer .footer-top .form button[type="submit"]:hover {
-  background: #0a98c0;
+  background: #34D82B;
   cursor: pointer;
 }
 
